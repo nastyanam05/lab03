@@ -1,0 +1,3 @@
+/Users/mira/formatter_lib/build/CMakeFiles/formatter_lib.dir
+/Users/mira/formatter_lib/build/CMakeFiles/edit_cache.dir
+/Users/mira/formatter_lib/build/CMakeFiles/rebuild_cache.dir
