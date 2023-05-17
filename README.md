@@ -24,8 +24,8 @@ add_library(formatter_lib STATIC ${CMAKE_CURRENT_SOURCE_DIR}/formatter.cpp)
 
 **Task 2**
 ```
-mkdir formatter_ex
-cd formatter_ex
+mkdir formatter_ex_lib
+cd formatter_ex_lib
 wget https://raw.githubusercontent.com/tp-labs/lab03/master/formatter_ex_lib/formatter_ex.cpp
 wget https://raw.githubusercontent.com/tp-labs/lab03/master/formatter_ex_lib/formatter_ex.h
 nano CMakeLists.txt
