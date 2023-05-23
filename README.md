@@ -1,7 +1,6 @@
 # lab03
 
 **Task 1**
-
 С помощью `brew install cmake` скачиваю все необходимые инструменты
 ```
 mkdir formatter_lib
