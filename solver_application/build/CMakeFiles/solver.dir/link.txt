@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/solver.dir/equation.cpp.o -o solver  formatter_ex_lib_dir/libformatter_ex_lib.a solver_lib_dir/libsolver_lib.a formatter_ex_lib_dir/formatter_lib_dir/libformatter_lib.a 
